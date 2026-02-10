@@ -1,5 +1,7 @@
 # UNISOCUnlocker
 Based of CVE-2022-38694 this adds a simple UI to remove the persistence partition, commonly used for FRP
+# IMPORTANT!
+Do not panic if the device appears to have a black screen. After the script is finished press the power button on the device. It should boot up normally after that.
 # How 2 Build
 Open Visual Studio 2026 and click build. Simple as that
 # Dependencies
